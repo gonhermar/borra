@@ -1,5 +1,5 @@
 package borra;
 
 public class clase1 {
-public static void main (String[] args){System.out.println("sdsdwfghjaf");}
+public static void main (String[] args){System.out.println("Abraham apruebame todasss");}
 }
